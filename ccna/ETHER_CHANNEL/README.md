@@ -2,14 +2,15 @@
 
 
 ###[1] Solve the Problem of slowing STP (Spanning Tree Protocol Cause)
+
 ###[2] Make a group of Cables  Like only (One Cable)
+
 ###[3] Redundancy
 
 
 ##Ether channel has two protocols :
 ####[1] ==> PAGP (Cisco Proprietary) has two modes (Desirable, Auto)
-
-####[2] ==> LACP (Multi vendor) has two modes (Active , Passive)
+####[2] ==> LACP (Multi vendor) has two modes (Active, Passive)
 
 Commands to switch on Ether Channel are like the below command :
 
@@ -27,7 +28,7 @@ do show eth sum
 ```
 
 <div>
-<img src="https://github.com/Mohamed-Abdelwahed/Networking_Start/assets/86673523/b036b055-4266-4691-b9e2-70c917391ad9"  alt="Ether channel image"/>
+<img src="https://github.com/Mohamed-Abdelwahed/Networking_Start/assets/86673523/b036b055-4266-4691-b9e2-70c917391ad9" height="300" alt="Ether channel image"/>
 </div>
 
 
