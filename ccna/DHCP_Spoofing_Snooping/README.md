@@ -1,4 +1,4 @@
-# DHCP SNOOFING AND SNOOPING
+# DHCP SPOOFING AND SNOOPING
 
 ### DHCP SNOOFING is Attack the hacker make his device DHCP server using any tools , and make deafult gateway his own ip address
 
