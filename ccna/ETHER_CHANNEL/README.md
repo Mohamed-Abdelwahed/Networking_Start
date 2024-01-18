@@ -1,15 +1,15 @@
-#ETHER CHANNEL
+# ETHER CHANNEL
 
 
-###[1] Solve Problem of slowing STP (Spanning Tree Protocol Cause)
-###[2] Make group of Cables  Like only a (One Cable)
-###[3] Redunduncy
+### [1] Solve Problem of slowing STP (Spanning Tree Protocol Cause)
+### [2] Make group of Cables  Like only a (One Cable)
+### [3] Redunduncy
 
 
-##Ether channel has two protocols :
-####[1] ==> PAGP (Cisco Propetary) has two mode (Desirable , Auto)
+## Ether channel has two protocols :
+#### [1] ==> PAGP (Cisco Propetary) has two mode (Desirable , Auto)
 
-####[2] ==> LACP (Multi vendor) has two mode (Active , Passsive)
+#### [2] ==> LACP (Multi vendor) has two mode (Active , Passsive)
 
 Commands to switch on Ether Channel like below command :
 
@@ -33,8 +33,8 @@ do show eth sum
 
 
 
-###Yotube Learnning : 
-####[Ether Channel](https://youtu.be/z5qdEtY9paQ?si=lJQ-F5iEz-i_0gA2)- Eng:Waleed Saad El-Din
+### Yotube Learnning : 
+#### [Ether Channel](https://youtu.be/z5qdEtY9paQ?si=lJQ-F5iEz-i_0gA2)- Eng:Waleed Saad El-Din
 
 
 
