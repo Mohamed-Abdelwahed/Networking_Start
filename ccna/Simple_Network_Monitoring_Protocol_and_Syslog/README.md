@@ -31,7 +31,28 @@ SNMP-Server Community cisco ro
 
 ###### cisco is a shared key you can use any word , ro is (Read only prefared) you can use rw (read and write) .
 
+---
 
+##### Syslog : 
++ like black box in plane .
++ Save all actions happen in device .
++ numbered actions from 0 to 8.
++ By Default debugging doesnot save , number (7).
++ By Default Syslog save in ram (not Recommendded).
+
+
+###### Save in RAM : 
+```
+logging on
+```
+
+##### Save in outside device :
+```
+logging on 192.168.1.200
+```
+
+
+---
 ##### unfortionatly Packet tracer doesnot support most configuration of (SNMP) and (Syslog).
 
 ---
